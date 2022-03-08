@@ -12,4 +12,4 @@ Permanent Raw URL: https://raw.githubusercontent.com/MelihOzturk/cyber-security-
 <br>
 Forbidden Zone Raw URL: https://github.com/MelihOzturk/cyber-security-ip-blacklist/blob/main/forbidden-zone.txt
 <br>
-Last Update: 05.03.2022
+Last Update: 08.03.2022
