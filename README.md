@@ -10,6 +10,6 @@ Tempory Raw URL: https://raw.githubusercontent.com/MelihOzturk/cyber-security-ip
 <br>
 Permanent Raw URL: https://raw.githubusercontent.com/MelihOzturk/cyber-security-ip-blacklist/main/permanent-list.txt
 <br>
-Forbidden Zone Raw URL: https://github.com/MelihOzturk/cyber-security-ip-blacklist/blob/main/forbidden-zone.txt
+Forbidden Zone Raw URL: https://raw.githubusercontent.com/MelihOzturk/cyber-security-ip-blacklist/main/forbidden-zone.txt
 <br>
 Last Update: 08.03.2022
